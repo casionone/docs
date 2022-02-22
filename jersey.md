@@ -64,14 +64,6 @@ Linkis mvn包引入方式
   <version>1.0.3-SNAPSHOT</version>
 </dependency>
 ```
-Linkis Apache1.0.3已部署的行内测试环境信息
-```
-部署主机：10.107.97.41
-Linkis管理台访问地址 http://10.107.97.41:8890/
-gateway http://10.107.97.41:9001/
-
-```
-
 
 
 替换的正则
