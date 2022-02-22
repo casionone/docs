@@ -56,7 +56,7 @@ http://www.cowtowncoder.com/blog/archives/2012/04/entry_469.html
 
 **Linkis组件jar包和测试环境信息**
 Linkis mvn包引入方式
-对应的1.0.3-SNAPSHOT包已上传至行内maven仓库 ,mvn引用示例如下
+对应的1.0.3包已上传至maven仓库 ,mvn引用示例如下
 ```
 <dependency>
   <groupId>org.apache.linkis</groupId>
